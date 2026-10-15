@@ -4,6 +4,8 @@ Electrical engineering graduate exploring machine learning for signals and image
 
 I hold a B.Sc. in Electrical Engineering (Telecommunications) from Islamic Azad University, Science and Research Branch (2026). I am seeking research-oriented Master’s opportunities in AI, machine learning, and related interdisciplinary fields.
 
+[LinkedIn](https://www.linkedin.com/in/ali-mirzaabolhassani-9ab2a3397/)
+
 ## Research interests
 
 - Machine learning and deep learning, with an emphasis on robustness and generalization
